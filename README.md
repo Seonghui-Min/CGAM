@@ -12,7 +12,7 @@ ___
 ```
 pip install -r requirements.txt
 ``` -->
-__
+<!-- ___ -->
 
 ## Citation
 ```
@@ -25,7 +25,7 @@ __
   organization={IEEE}
 }
 ```
-__
+<!-- ___ -->
 
 ## Acknowledgement
 Our project is developed based on [f-BRS](https://github.com/SamsungLabs/fbrs_interactive_segmentation).
