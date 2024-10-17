@@ -1,8 +1,8 @@
-## f-BRS: Rethinking Backpropagating Refinement for Interactive Segmentation [[Paper]](https://arxiv.org/abs/2001.10331) [[PyTorch]](https://github.com/saic-vul/fbrs_interactive_segmentation/tree/master) [[MXNet]](https://github.com/saic-vul/fbrs_interactive_segmentation/tree/mxnet) [[Video]](https://youtu.be/ArcZ5xtyMCk)
+## CGAM: click-guided attention module for interactive pathology image segmentation via backpropagating refinement [[Paper]](https://arxiv.org/abs/2001.10331) [[PyTorch]](https://github.com/saic-vul/fbrs_interactive_segmentation/tree/master) [[MXNet]](https://github.com/saic-vul/fbrs_interactive_segmentation/tree/mxnet) [[Video]](https://youtu.be/ArcZ5xtyMCk)
 
 This repository provides code for training and testing state-of-the-art models for interactive segmentation with the official PyTorch implementation of the following paper:
 
-> **f-BRS: Rethinking Backpropagating Refinement for Interactive Segmentation**<br>
+> **CGAM: click-guided attention module for interactive pathology image segmentation via backpropagating refinement**<br>
 > [Konstantin Sofiiuk](https://github.com/ksofiyuk), [Ilia Petrov](https://github.com/ptrvilya), [Olga Barinova](https://github.com/OlgaBarinova), [Anton Konushin](https://scholar.google.com/citations?user=ZT_k-wMAAAAJ)<br>
 > Samsung Research <br>
 > https://arxiv.org/abs/2001.10331
