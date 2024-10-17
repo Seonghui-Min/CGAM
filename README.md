@@ -2,6 +2,7 @@
 
 > [Seonghui Min](https://scholar.google.co.kr/citations?user=iBOHogcAAAAJ&hl=ko&oi=ao), [Won-Ki Jeong](https://scholar.google.com/citations?user=bnyKqkwAAAAJ&hl=ko&oi=ao)<br>
 > Korea University<br>
+> ISBI 2023<br>
 ___
 
 ![Overview](./figure/isbi.png)
