@@ -14,7 +14,7 @@ pip install -r requirements.txt
 ``` -->
 __
 
-### Citation
+## Citation
 ```
 @inproceedings{min2023cgam,
   title={CGAM: click-guided attention module for interactive pathology image segmentation via backpropagating refinement},
@@ -27,5 +27,5 @@ __
 ```
 __
 
-### Acknowledgement
+## Acknowledgement
 Our project is developed based on [f-BRS](https://github.com/SamsungLabs/fbrs_interactive_segmentation).
