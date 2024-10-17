@@ -12,8 +12,9 @@ ___
 ```
 pip install -r requirements.txt
 ``` -->
+___
 
-#### Citation
+### Citation
 
 If you find this work is useful for your research, please cite our paper:
 ```
@@ -26,6 +27,7 @@ If you find this work is useful for your research, please cite our paper:
   organization={IEEE}
 }
 ```
+___
 
-#### Acknowledgement
+### Acknowledgement
 Our project is developed based on [f-BRS](https://github.com/SamsungLabs/fbrs_interactive_segmentation).
