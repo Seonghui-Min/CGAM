@@ -14,7 +14,7 @@ pip install -r requirements.txt
 ```
 
 #### Acknowledgement
-Our code is developed based on the framework of [f-BRS: Rethinking Backpropagating Refinement for Interactive Segmentation](https://github.com/SamsungLabs/fbrs_interactive_segmentation).
+Our code is developed based on the framework of [f-BRS](https://github.com/SamsungLabs/fbrs_interactive_segmentation).
 
 ## Citation
 
