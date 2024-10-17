@@ -7,14 +7,14 @@ ___
 
 ![Overview](./figure/isbi.png)
 
-#### Implementation
+<!-- #### Implementation
 - Requirements
 ```
 pip install -r requirements.txt
-```
+``` -->
 
 #### Acknowledgement
-Our code is developed based on the framework of [f-BRS](https://github.com/SamsungLabs/fbrs_interactive_segmentation).
+Our project is developed based on [f-BRS](https://github.com/SamsungLabs/fbrs_interactive_segmentation).
 
 ## Citation
 
