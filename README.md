@@ -1,7 +1,7 @@
 ## [CGAM: click-guided attention module for interactive pathology image segmentation via backpropagating refinement](https://arxiv.org/pdf/2307.01015)
 
-> **Korea University**<br>
-> [Seonghui Min](https://scholar.google.co.kr/citations?user=iBOHogcAAAAJ&hl=ko&oi=ao), [Won-Ki Jeong](https://scholar.google.com/citations?user=bnyKqkwAAAAJ&hl=ko&oi=ao)<br>
+> Korea University<br>
+> [Seonghui Min](https://scholar.google.co.kr/citations?user=iBOHogcAAAAJ&hl=ko&oi=ao) and [Won-Ki Jeong](https://scholar.google.com/citations?user=bnyKqkwAAAAJ&hl=ko&oi=ao)<br>
 ___
 
 ![Overview](./figure/isbi.png)
