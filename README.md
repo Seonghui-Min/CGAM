@@ -1,7 +1,4 @@
 ## CGAM: click-guided attention module for interactive pathology image segmentation via backpropagating refinement
-By [Seonghui Min](https://scholar.google.co.kr/citations?user=iBOHogcAAAAJ&hl=ko&oi=ao) and [Won-Ki Jeong](https://scholar.google.com/citations?user=bnyKqkwAAAAJ&hl=ko&oi=ao)
-
-This is official implementation code of CGAM (ISBI2023)
 
 > **CGAM: click-guided attention module for interactive pathology image segmentation via backpropagating refinement**<br>
 > [Seonghui Min](https://scholar.google.co.kr/citations?user=iBOHogcAAAAJ&hl=ko&oi=ao), [Won-Ki Jeong](https://scholar.google.com/citations?user=bnyKqkwAAAAJ&hl=ko&oi=ao)<br>
