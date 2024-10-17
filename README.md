@@ -14,7 +14,18 @@ pip install -r requirements.txt
 ```
 
 #### Acknowledgement
-Our code is developed based on [f-BRS: Rethinking Backpropagating Refinement for Interactive Segmentation](https://github.com/SamsungLabs/fbrs_interactive_segmentation).
+Our code is developed based on the framework of [f-BRS: Rethinking Backpropagating Refinement for Interactive Segmentation](https://github.com/SamsungLabs/fbrs_interactive_segmentation).
 
-#### Citation
-Please cite us if you use our work
+## Citation
+
+If you find this work is useful for your research, please cite our paper:
+```
+@inproceedings{min2023cgam,
+  title={CGAM: click-guided attention module for interactive pathology image segmentation via backpropagating refinement},
+  author={Min, Seonghui and Jeong, Won-Ki},
+  booktitle={2023 IEEE 20th International Symposium on Biomedical Imaging (ISBI)},
+  pages={1--5},
+  year={2023},
+  organization={IEEE}
+}
+```
